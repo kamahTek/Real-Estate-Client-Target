@@ -1,0 +1,5 @@
+# Ignore Data folder but not zippedData folder
+
+data
+
+!zippedData
