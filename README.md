@@ -36,7 +36,7 @@ Men hold top positions in their indurstries of work thus make them attain high i
 
 <img src="images/gender_income.png" alt="aircraft make" width="450" height="500">
 
-**Purpose_of_flight**
+**Occupation**
 
 In matters towards income, occupation really matters. Top indurstrial positions make a higher income than other normal positions because they are the steers of respective indurstries.
 
